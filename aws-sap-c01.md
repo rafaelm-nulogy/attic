@@ -26,7 +26,7 @@
 - [AWS Training and Certification Learning Library](https://www.aws.training/LearningLibrary) (free)
 - ~~[Udemy: AWS Certified Solutions Architect Professional](https://www.udemy.com/course/amazon-certified-solutions-architect-professional) (CAD 140)~~
 - [Udemy: AWS Certified Solutions Architect - Professional 2019](https://www.udemy.com/course/aws-certified-solutions-architect-professional) (CAD 40)
-- [A Cloud Guru: AWS Certified Solutions Architect - Professional 2019](https://acloud.guru/learn/aws-certified-solutions-architect-professional-2019) (USD 29)
+- [A Cloud Guru: AWS Certified Solutions Architect - Professional 2019](https://acloud.guru/learn/aws-certified-solutions-architect-professional-2019) (USD 29) 💸
 - [Linux Academy: AWS Certified Solutions Architect – Professional](https://linuxacademy.com/course/aws-certified-solutions-architect-professional-2018/) (USD 40) 💸
 
 ## Practice Tests
