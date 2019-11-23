@@ -13,7 +13,7 @@
 - Secure your data on AWS with encryption
 - Design protection of data-at-rest as well as data-in-flight
 - Enhance the performance of your solutions
-- Select the most appropriate AWS deployment mecha3nism
+- Select the most appropriate AWS deployment mechanism
 
 ## Articles
 
@@ -78,6 +78,12 @@
 - [AWS re:Inforce 2019: Managing Multi-Account AWS Environments Using AWS Organizations](https://www.youtube.com/watch?v=fxo67UeeN1A)
 
 ### Domain 2: Design for New Solutions (31%)
+
+**Exam Readiness**
+
+- This module focuses on implementation strategies for reliability requirements, ensuring business continuity, meeting performance objectives, security requirements and controls, and deployment strategies for business requirements.
+
+**Udemy**
 
 - Design for New Solutions; Udemy (17:07:46)
 - **EC2 Auto Scaling**
@@ -153,3 +159,11 @@
 - Application Integration; Linux Academy (02:01:00)
 - Storage; Linux Academy (02:44:00)
 - Data Stores; A Cloud Guru, CHAPTER 2 (01:38:44)
+
+## Review
+
+- CloudFront signed URLs
+- DynamoDB streams
+- CloudFormation mappings
+- Cognito user pools (IdP) / identity pools (STS)
+- CloudTrail log file integrity validation
